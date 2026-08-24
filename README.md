@@ -1,2 +1,9 @@
-# Payments
-Payment tests
+# squeze-commit
+
+A
+
+B
+
+C
+
+D
