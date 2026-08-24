@@ -1,0 +1,3 @@
+# squeze-commit
+
+A
