@@ -1,5 +1,0 @@
-# squeze-commit
-
-A
-
-B
